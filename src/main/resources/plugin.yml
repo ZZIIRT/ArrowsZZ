@@ -1,0 +1,8 @@
+name: ArrowsZZ
+version: '${project.version}'
+main: org.zzii.arrowszz.ArrowsZZ
+commands:
+  zarrows:
+    aliases:
+      - zarr
+
