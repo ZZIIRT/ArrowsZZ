@@ -93,7 +93,7 @@ messages:
 
 ## Скриншоты
 
-![Скриншот 1](link_to_screenshot_1)  
+![Скриншот 1](img/p-1.png)  
 _Выдача стрел в действии_
 
 ![Скриншот 2](link_to_screenshot_2)  
