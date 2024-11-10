@@ -19,6 +19,11 @@ public class ArrowCommand implements CommandExecutor {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+        
+        if (!(sender instanceof Player)) {
+            sender.sendMessage("Эта команда может быть выполнена только игроком.");
+            return true;
+        }
 
         Player player = (Player) sender;
 
