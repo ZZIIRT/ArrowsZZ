@@ -1,0 +1,9 @@
+name: ArrowsZZ
+version: '${project.version}'
+main: org.zzii.arrowszz.ArrowsZZ
+api-version: '1.16'
+author: ZZII
+commands:
+  zarrows:
+    aliases:
+      - zarr
