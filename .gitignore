@@ -1,6 +1,3 @@
-# Claude Code
-.claude/
-
 # Maven
 target/
 
@@ -13,5 +10,3 @@ target/
 # OS
 .DS_Store
 Thumbs.db
-CLAUDE.md
-
